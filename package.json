@@ -1,6 +1,6 @@
 {
   "name": "vue-quik-console",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple HTML Javascript console. One file. Made with Vue.js. Great for simple projects.",
   "author": "Jacopo Valanzano <valanzanoj@gmail.com>",
   "repository": {
