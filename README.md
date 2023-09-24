@@ -1,6 +1,6 @@
 # Quik (Console)
 
-> Simple HTML Javascript console. One file. Made with Vue.js.
+> An HTML "Javascript console". One file. Made with Vue.js.
 > Great for simple projects.
 
 Try it on JSFiddle
