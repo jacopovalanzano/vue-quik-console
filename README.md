@@ -1,3 +1,5 @@
+![Archived](https://img.shields.io/badge/Status-Archived-red)
+
 # Quik (Console)
 
 > An HTML "Javascript console". One file. Made with Vue.js.
