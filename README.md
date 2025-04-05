@@ -3,6 +3,8 @@
 > An HTML "Javascript console". One file. Made with Vue.js.
 > Great for simple projects.
 
+# ⛔ This repository is obsolete and unmaintained
+
 Try it on JSFiddle
 https://jsfiddle.net/jacopovalanzano/peogqnv7
 
